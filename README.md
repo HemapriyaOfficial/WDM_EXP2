@@ -44,6 +44,8 @@ G40,high,yes,excellent,yes
 ### OUTPUT:
 
 
+![WhatsApp Image 2024-08-12 at 18 39 05_ecdf2c65](https://github.com/user-attachments/assets/55b643b7-57d9-4417-9daf-61ef87e3d097)
+
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Open explorer.
@@ -53,5 +55,10 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+
+
+![WhatsApp Image 2024-08-12 at 18 41 16_fcaad7a4](https://github.com/user-attachments/assets/9a65ece6-1502-42e1-a2e9-a2f11264f8ef)
+
+![WhatsApp Image 2024-08-12 at 18 41 46_62028ca9](https://github.com/user-attachments/assets/18cb752e-6800-4361-82f8-f5ea18864bc0)
 
 ### RESULT: 
