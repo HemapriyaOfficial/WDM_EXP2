@@ -62,3 +62,4 @@ G40,high,yes,excellent,yes
 ![WhatsApp Image 2024-08-12 at 18 41 46_62028ca9](https://github.com/user-attachments/assets/18cb752e-6800-4361-82f8-f5ea18864bc0)
 
 ### RESULT: 
+Thus, generation of association rules using apriori algorithm is executed succesfully.
